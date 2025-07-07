@@ -119,9 +119,6 @@ body {
     width: 250%;
   }
 
-
-
-
   #reset {
     padding: 0.75em 2em;
     border: none;
@@ -164,14 +161,8 @@ body {
     width: 250%;
   }
 
-
-
-
-
-
-
 .url {
-    color: #e70f0f;
+    color: #007bff; /* Changed from red to Bootstrap blue */
     font-weight: normal;
     font-size: 1.2rem;
     text-decoration: none;
